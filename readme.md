@@ -10,3 +10,6 @@ re
 fe
 fr
 ergit 
+
+hello 
+how are you
